@@ -6,11 +6,6 @@
 - [ ] add powerups / collectibles
 - [ ] add highscore trackig
 
-
-# Dino Runner Game
-
-![Dino Runner Logo](link_to_logo.png) <!-- Include your game logo here -->
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
