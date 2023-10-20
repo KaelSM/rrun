@@ -1,4 +1,7 @@
 # rrun
+
+![rexx](https://github.com/KaelSM/rrun/assets/113145289/1a5118c7-db6d-4ff6-bda3-87c2f8fff65f)
+
 ## To-Do List
 
 - [x] Basic Tutorial (completed)
