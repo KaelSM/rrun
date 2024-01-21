@@ -84,7 +84,7 @@ We welcome contributions to make Dino Runner even better! If you'd like to contr
 
 Dino Runner was created with the help of the following resources and contributions:
 
-- [Web Dev Simplified] - Special thanks to [Kyle] for providing the knowledge and guidance to create this game.
+- [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified) - Special thanks to [Kyle] for providing the knowledge and guidance to create this game.
 
 ## License
 
